@@ -53,17 +53,11 @@ The essay traces a shift in how I think about technical work: from treating capa
 
 <br>
 
-## Published / Cross-posted
-
-*(Links will be added here if this reflection is featured externally — e.g. Stanford Digital Education's [New Lines](https://digitaleducation.stanford.edu/) newsletter.)*
-
-<br>
-
 ---
 
 <div align="center">
 
-**Rahul Kiran Gunti**
-Founder & Managing Partner, [Raphus Solutions](https://github.com/) · Hyderabad, India
+**Rahul Kiran G**
+CEO & Managing Partner, [Raphus Solutions](https://raphussolutions.com/) · Hyderabad, India
 
 </div>
